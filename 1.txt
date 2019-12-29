@@ -1,0 +1,2 @@
+this is first line code in 1.txt
+This is second line code in 1.txt
